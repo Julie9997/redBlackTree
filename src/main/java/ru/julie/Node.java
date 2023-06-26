@@ -8,6 +8,6 @@ class Node {
 
     public Node(int value) {
         this.value = value;
-        this.isRed = true; // Новая нода всегда красная
+        this.isRed = true;
     }
 }
